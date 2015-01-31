@@ -1,0 +1,39 @@
+﻿﻿
+html,body,h1,h2,h3,h4,h5,h6,ul,li,a {
+    margin:0;
+    padding:0;
+}
+
+body {
+    font-family:Georgia,Times New Roman; 
+    font-size:1em;
+    color:darkblue;
+}
+
+h1 {  
+    font-size: 2.5em;
+    color:orangered;
+}
+
+h2 {
+    font-size: 1.5em;
+    color:orangered;
+}
+
+div.title {
+    width: 100%;
+    padding: 25px 25px 2px 25px;
+    border-bottom: 2px groove;
+}
+
+div.heading {
+    width:30%;
+    padding: 25px 25px 2px 25px;
+}
+
+div.main {
+    width:685px;
+    padding:5px 25px 25px;
+    border:5px solid navy;
+    margin:50px;
+}
